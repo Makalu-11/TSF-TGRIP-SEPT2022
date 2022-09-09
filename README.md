@@ -1,1 +1,1 @@
-#The Sparks Foundation - GRIP SEPT22
+The Sparks Foundation - GRIP SEPT22
