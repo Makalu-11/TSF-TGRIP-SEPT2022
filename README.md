@@ -22,5 +22,3 @@ This repository contains the tasks that I completed while working as an intern f
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 2. I used Python and Jypyter Notebook.
 3. Link for the dataset https://bit.ly/3kXTdox
-# The Sparks Foundation Tasks
-
