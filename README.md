@@ -7,7 +7,7 @@ This repository contains the tasks that I completed while working as an intern f
 - Internship Duration - 1 Month ( September-2022 )
 - Internship Type - Remote
 
-# Task-1 : Prediction using Supervised ML (Level - Beginner)
+## Task-1 : Prediction using Supervised ML (Level - Beginner)
 
 
 1. Predict the percentage of marks of an student based on the number of study hours.
@@ -17,7 +17,7 @@ This repository contains the tasks that I completed while working as an intern f
 5. What will be predicted score if a student studies for 9.25 hrs/ day
 
 
-# Task-2 : Prediction using Unsupervised ML (Level - Beginner)
+## Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 2. I used Python and Jypyter Notebook.
